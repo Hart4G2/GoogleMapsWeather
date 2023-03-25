@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="title_activity_maps">Сведения о текущем месте</string>
+    <string name="default_info_title">Местоположение по умолчанию</string>
+    <string name="default_info_snippet">Места не найдены, так как разрешение на определение местоположения отключено.</string>
+    <string name="pick_place">Выберите место</string>
+    <string name="option_get_info">Получить данные</string>
+    <string name="the_weather_here">Погода здесь</string>
+    <string name="place_search">Поиск мест</string>
+</resources>
